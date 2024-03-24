@@ -1,0 +1,13 @@
+/.venv/
+*.pyc
+*pyd
+__pycache__/
+*.py[cod]
+*$py.class
+# OS generate file
+.DS_Store
+.idea/
+
+# Editor setting file
+.vscode/
+*.env
